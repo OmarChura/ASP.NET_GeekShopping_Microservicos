@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
+        "outputPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",

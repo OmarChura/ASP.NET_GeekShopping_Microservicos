@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj": {}
+    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj": {
+    "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj",
         "projectName": "GeekSopping.Web",
-        "projectPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj",
+        "projectPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekSopping.Web\\obj\\",
+        "outputPath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekSopping.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",

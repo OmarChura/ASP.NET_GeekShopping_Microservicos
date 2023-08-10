@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lc/o7i5ije9bD796cSI9DMossH7gy06d186R8Rpj7J0j2K3tJRqVaSmRvXler86otCkSN9obaSAUZqgVOXnFVQ==",
+  "dgSpecHash": "hq6r6O4UizumkB/AzCuoDcOjbQPsMCOk6RCzVkQYIwWX4Z5p99IPOvgk3W1lrlaRMjdFTIljjI0EpmeVkuci/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S8-organizando_arquitetura_microservicos\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj",
+  "projectFilePath": "C:\\Users\\henry\\Desktop\\DotNet-arquitetura-microservicos\\S9-microserviceWeb_para_microserviceProduct\\Projeto\\GeekShooping\\GeekSopping.Web\\GeekSopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
