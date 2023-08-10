@@ -1,7 +1,14 @@
+using GeekSopping.Web.Services;
+using GeekSopping.Web.Services.IServices;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpClient<IProductService, ProductService>( c =>
+        c.BaseAddress = new Uri(builder.Configuration["ServiceUrls:ProductAPI"])    
+    );
 
 var app = builder.Build();
 

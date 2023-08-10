@@ -24,3 +24,14 @@ C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S7-primeiro_microservico
 C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S7-primeiro_microservicos\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.pdb
 C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S7-primeiro_microservicos\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.genruntimeconfig.cache
 C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S7-primeiro_microservicos\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\ref\GeekSopping.Web.dll
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.AssemblyInfo.cs
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.RazorAssemblyInfo.cache
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.RazorAssemblyInfo.cs
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.dll
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\refint\GeekSopping.Web.dll
+C:\Users\henry\Desktop\DotNet-arquitetura-microservicos\S9-microserviceWeb_para_microserviceProduct\Projeto\GeekShooping\GeekSopping.Web\obj\Debug\net6.0\GeekSopping.Web.pdb
